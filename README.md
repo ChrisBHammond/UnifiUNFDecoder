@@ -7,6 +7,7 @@ https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security
 
 
 Open the UnifiUNFDecoder.ps1
+
 Go to bottom and change this line to point to your UNF file
 
  $fullpath = "C:\temp\5.10.19-20190320-2118.unf"
