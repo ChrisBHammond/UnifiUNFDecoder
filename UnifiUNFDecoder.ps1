@@ -1,5 +1,8 @@
 # Found most of this info at 
 # https://community.ubnt.com/t5/UniFi-Wireless/unf-controller-backup-file-format/td-p/1624105
+# CH 03-28-2019 Had to change the powershell code to not be a module import, easier to run for newbies.
+# Had to find Create-AesManagedObject object code
+# Had to define decryptor to fix runtime errors. 
 
 # Many thanks to this git repo for the key and basic logic! https://github.com/zhangyoufu/unifi-backup-decrypt
 # Also AES credit: https://gist.github.com/ctigeek/2a56648b923d198a6e60
